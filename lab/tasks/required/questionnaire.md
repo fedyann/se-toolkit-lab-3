@@ -9,12 +9,12 @@ Fill in each answer below. Replace `___` with the correct value.
 1. HTTP method: GET
 2. Path: /items
 3. Status code (success): 200
-4. Response type (array or object): JSON
+4. Response type (array or object): array
 
 ### GET /items/{item_id}
 
 1. Status code (item found): 200
-2. Status code (item not found): 404
+2. Status code (item not found): 403
 
 ### POST /items
 
